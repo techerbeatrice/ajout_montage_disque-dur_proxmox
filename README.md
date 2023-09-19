@@ -7,3 +7,6 @@
        
 ![image](https://github.com/techerbeatrice/ajout_montage_disque-dur_proxmox/assets/138071140/00cb5568-0096-4013-ac01-2d069676487d)
 
+**2ème disque dur ajouté visible dans la GUI**
+
+![image](https://github.com/techerbeatrice/ajout_montage_disque-dur_proxmox/assets/138071140/40a74a07-1045-4cca-8214-74426890a1a7)
