@@ -15,12 +15,13 @@ ____________
 ____________
 
 **En shell, formatage et montage**
-**voir les informations sur ce 2ème disque dur**  
+**voir les informations sur ce 2ème disque dur**   
+
 ![image](https://github.com/techerbeatrice/ajout_montage_disque-dur_proxmox/assets/138071140/6ce80d8a-353b-4e88-b275-2710def5797b)
 
 **partionner ce disque dur**
 
-![image](https://github.com/techerbeatrice/ajout_montage_disque-dur_proxmox/assets/138071140/09dacd8b-1906-4ca4-a8ca-f1207af6e3ac)
+![image](https://github.com/techerbeatrice/ajout_montage_disque-dur_proxmox/assets/138071140/f6ca0d8f-9765-4348-8afb-80db9c1a0e31)
 
 **Formater cette partition en _ext4_ et la monter dans un dossier /srv/dd1**   
 
