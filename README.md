@@ -32,3 +32,6 @@ ____________
 ![image](https://github.com/techerbeatrice/ajout_montage_disque-dur_proxmox/assets/138071140/384720af-a9f9-4e56-996d-bc776576ffc6)
 
 ![image](https://github.com/techerbeatrice/ajout_montage_disque-dur_proxmox/assets/138071140/5c7689ce-d698-40bf-88aa-9e98e60e0d31)
+
+![image](https://github.com/techerbeatrice/ajout_montage_disque-dur_proxmox/assets/138071140/05958a5a-9ed0-463f-b225-a47841ce9bd3)
+
